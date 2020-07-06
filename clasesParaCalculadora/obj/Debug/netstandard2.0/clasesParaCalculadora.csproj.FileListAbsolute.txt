@@ -1,0 +1,9 @@
+C:\taller1_2020(C#)\tpn8-NTVGcele\clasesParaCalculadora\bin\Debug\netstandard2.0\clasesParaCalculadora.deps.json
+C:\taller1_2020(C#)\tpn8-NTVGcele\clasesParaCalculadora\bin\Debug\netstandard2.0\clasesParaCalculadora.dll
+C:\taller1_2020(C#)\tpn8-NTVGcele\clasesParaCalculadora\bin\Debug\netstandard2.0\clasesParaCalculadora.pdb
+C:\taller1_2020(C#)\tpn8-NTVGcele\clasesParaCalculadora\obj\Debug\netstandard2.0\clasesParaCalculadora.csprojAssemblyReference.cache
+C:\taller1_2020(C#)\tpn8-NTVGcele\clasesParaCalculadora\obj\Debug\netstandard2.0\clasesParaCalculadora.csproj.CoreCompileInputs.cache
+C:\taller1_2020(C#)\tpn8-NTVGcele\clasesParaCalculadora\obj\Debug\netstandard2.0\clasesParaCalculadora.AssemblyInfoInputs.cache
+C:\taller1_2020(C#)\tpn8-NTVGcele\clasesParaCalculadora\obj\Debug\netstandard2.0\clasesParaCalculadora.AssemblyInfo.cs
+C:\taller1_2020(C#)\tpn8-NTVGcele\clasesParaCalculadora\obj\Debug\netstandard2.0\clasesParaCalculadora.dll
+C:\taller1_2020(C#)\tpn8-NTVGcele\clasesParaCalculadora\obj\Debug\netstandard2.0\clasesParaCalculadora.pdb
